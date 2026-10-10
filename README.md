@@ -1,2 +1,5 @@
 # trace-removal
-tools for security professionals or forensic investigators who need to remove traces from a server.
+
+Tools for security professionals and forensic investigators working on authorized server incident response and forensic analysis.
+
+**Topics:** #cybersecurity #digital-forensics #security-tools #server-security #incident-response
